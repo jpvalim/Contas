@@ -1,0 +1,26 @@
+FASE 1
+	CRIAR BANCO DE DADOS, E INSERIR COM DADOS REAIS
+	CRIAR PLANILHA COM OS DADOS DO BANCO DE DADOS PARA AVALIAÇÃO.
+	
+
+
+RECURSOS
+	Criar exception handler para os recursos.
+		Delete categoria -> melhorar os tratamentos das exceções.
+	
+	Criar recurso para gravar os dados no banco de dados, baseado em uma string padrão.
+
+	Criar recurso para inserir e obter contas e cartões cadastrados.
+
+	Criar recurso para inserir as despesas.
+	
+	
+
+
+CONTA:
+Método para obter extrato da conta por período, se não informar o período pega do ultimo mês.
+
+
+
+Obter os dados através do SQL no excel
+Depois criar os recursos para criar uma view legal na web
